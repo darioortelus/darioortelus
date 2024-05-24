@@ -31,3 +31,4 @@
 <h3> Other skills </h3>
 <a href= #> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 <a href= #> <img width ='32px' src ='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png'> </a>
+<a href= #> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png'> </a>
